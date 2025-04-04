@@ -4,17 +4,6 @@ This is a Python-based desktop application designed to generate sales summary re
 
 ---
 
-## Table of Contents 📑
-
-1. [Features ✨](#features-✨)
-2. [Prerequisites ⚙️](#prerequisites-⚙️)
-3. [Installation 💻](#installation-💻)
-4. [Usage 🚀](#usage-🚀)
-5. [Contributing 🤝](#contributing-🤝)
-6. [License 📜](#license-📜)
-
----
-
 ## Features ✨
 
 - **Database Connectivity**: Connects to SQL Server databases using customizable IP addresses or server series (`10.16.x.x` or `10.28.x.x`). 🔗
