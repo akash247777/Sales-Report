@@ -81,3 +81,9 @@ python main.py
    * Monitor the live log for progress updates. 📊
 6. Download Reports :
    * Once completed, click the "Download Report" button to save the .zip file. 📥
+
+Feel free to reach out if you have any questions or suggestions! 
+
+📧akashsg247@gmail.com
+
+📞+91 8618041675
