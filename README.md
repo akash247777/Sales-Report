@@ -1,4 +1,3 @@
-# Apollo-Sales-Report
 # Sales Summary Report Generator 📊
 
 This is a Python-based desktop application designed to generate sales summary reports for multiple sites by connecting to a SQL Server database. The app uses **Tkinter** for the GUI, supports parallel processing for faster report generation, and allows exporting reports as `.zip` files containing individual `.txt` files for each site.
