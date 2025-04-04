@@ -12,9 +12,6 @@ import concurrent.futures
 import os
 import threading
 
-# =============================================================================
-# Utility Functions (unchanged)
-# =============================================================================
 
 def format_currency(value):
     """Format a numeric value as a currency string with 2 decimals."""
