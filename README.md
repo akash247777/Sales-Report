@@ -15,6 +15,13 @@ This is a Python-based desktop application designed to generate sales summary re
 - **Error Handling**: Gracefully handles connection errors and invalid inputs with clear error messages. ❌➡️✅
 
 ---
+D 💡 E 🚀 M 🎯 O 🔍
+
+
+
+Uploading Untitled video - Made with Clipchamp.mp4…
+
+
 
 ## Prerequisites ⚙️
 
