@@ -18,7 +18,9 @@ This is a Python-based desktop application designed to generate sales summary re
 D 💡 E 🚀 M 🎯 O 🔍
 
 
-https://github.com/user-attachments/assets/2df6862a-c9da-4d26-8678-a2d4fe704be4
+
+https://github.com/user-attachments/assets/83140f2c-5be3-42bc-97f4-27006cc0ade8
+
 
 
 
