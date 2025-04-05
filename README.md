@@ -18,8 +18,7 @@ This is a Python-based desktop application designed to generate sales summary re
 D 💡 E 🚀 M 🎯 O 🔍
 
 
-
-Uploading Untitled video - Made with Clipchamp.mp4…
+https://github.com/user-attachments/assets/2df6862a-c9da-4d26-8678-a2d4fe704be4
 
 
 
